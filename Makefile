@@ -28,7 +28,7 @@ dep_emq_auth_http     = git https://github.com/emqtt/emq-auth-http master
 dep_emq_auth_mysql    = git https://github.com/emqtt/emq-auth-mysql master
 dep_emq_auth_pgsql    = git https://github.com/emqtt/emq-auth-pgsql master
 dep_emq_auth_redis    = git https://github.com/emqtt/emq-auth-redis master
-dep_emq_auth_mongo    = git https://github.com/emqtt/emq-auth-mongo master
+dep_emq_auth_mongo    = git https://github.com/emqtt/emq-auth-mongo enterprise
 dep_emq_auth_jwt      = git https://github.com/emqtt/emq-auth-jwt master
 
 # mqtt-sn, coap and stomp
